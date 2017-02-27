@@ -1,13 +1,6 @@
 package GeoTIFFCompression;
 
-/**
- * Created by miteyan on 27/02/2017.
- */
 import java.io.*;
-
-/**
- * Created by miteyan on 05/02/2017.
- */
 public class Compression {
     /**
      * Final compression
