@@ -1,4 +1,4 @@
-/**
+package Flickr; /**
  * Created by miteyan on 23/02/2017.
  */
 import javax.xml.parsers.DocumentBuilderFactory;
