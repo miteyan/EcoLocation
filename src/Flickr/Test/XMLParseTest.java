@@ -1,4 +1,4 @@
-package Flickr;
+package Flickr.Test;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;
